@@ -1,0 +1,30 @@
+{
+  "name": "diff-checker",
+  "version": "1.0.0",
+  "description": "A web based diff checker tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrasannaBrabourame/diff-checker.git"
+  },
+  "keywords": [
+    "diff",
+    "checker"
+  ],
+  "author": "Prasanna Brabourame",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PrasannaBrabourame/diff-checker/issues"
+  },
+  "homepage": "https://github.com/PrasannaBrabourame/diff-checker#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.5",
+    "debug": "^4.3.1",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0"
+  }
+}
